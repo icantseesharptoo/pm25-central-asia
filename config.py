@@ -19,7 +19,7 @@ RESULTS_DIR = Path(__file__).parent / "results"
 #              (Almaty was UTC+6 until 1 March 2024 and UTC+5 afterwards).
 CITIES = {
     "Almaty":   {"file": DATA_DIR / "almaty_merged.csv",   "source_tz": "UTC",          "local_tz": "Asia/Almaty"},
-    "Bishkek":  {"file": DATA_DIR / "bishkek_merged.csv",  "source_tz": "Asia/Bishkek", "local_tz": "Asia/Bishkek"},
+    "Bishkek":  {"file": DATA_DIR / "bishkek_merged.csv",  "source_tz": "UTC",          "local_tz": "Asia/Bishkek"},
     "Tashkent": {"file": DATA_DIR / "tashkent_merged.csv", "source_tz": "UTC",          "local_tz": "Asia/Tashkent"},
 }
 
@@ -34,7 +34,7 @@ COLUMN_MAP = {
 }
 
 STUDY_START = "2020-04-09"
-STUDY_END = "2022-04-30 23:00"
+STUDY_END = "2020-12-31 22:00"
 
 HEATING_MONTHS = [10, 11, 12, 1, 2, 3]   # October-March
 

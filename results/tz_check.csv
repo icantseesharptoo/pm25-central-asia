@@ -1,0 +1,7 @@
+city,assumption,configured,peak_hour_all,min_hour_all,peak_hour_winter,min_hour_winter
+Almaty,raw = UTC,True,19,7,19,7
+Almaty,raw = local,False,13,1,13,1
+Bishkek,raw = UTC,True,19,7,19,7
+Bishkek,raw = local,False,13,1,13,1
+Tashkent,raw = UTC,True,21,14,22,14
+Tashkent,raw = local,False,16,9,17,9

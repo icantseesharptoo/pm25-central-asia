@@ -71,7 +71,7 @@ def main(placeholders: bool):
                 ratios[(tr, te)] = res[(res.train == tr) & (res.test == te)].rmse.iloc[0] / self_rmse
     worst = max(ratios, key=ratios.get)
     vals = {
-        "FcCutoff": cutoff.strftime("%-d %B %Y"),
+        "FcCutoff": cutoff.strftime("%d %B %Y").lstrip("0"),
         "FcHorizon": str(config.HORIZON_H),
         "PenaltyMean": f"{(sum(ratios.values()) / len(ratios) - 1) * 100:.0f}",
         "PenaltyMax": f"{(ratios[worst] - 1) * 100:.0f}",

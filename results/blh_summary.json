@@ -1,0 +1,17 @@
+{
+  "Almaty": {
+    "blh_median_heat": 32.752826999999996,
+    "pm_shallow": 69.67396593673966,
+    "pm_deep": 63.86699107866991
+  },
+  "Bishkek": {
+    "blh_median_heat": 30.202042,
+    "pm_shallow": 66.52834008097166,
+    "pm_deep": 63.30493576741041
+  },
+  "Tashkent": {
+    "blh_median_heat": 69.71011,
+    "pm_shallow": 73.94398340248962,
+    "pm_deep": 49.38669438669439
+  }
+}

@@ -1,0 +1,199 @@
+location_id,sensor_id,name,provider,is_monitor,lat,lon
+8876,25903,Almaty,AirNow,True,43.252855,76.93118
+2812550,8967269,Almaty Arena,Clarity,False,43.26408,76.81688
+2812555,8967449,Magnum Besagash,Clarity,False,43.29222,77.01218
+2812561,8967213,CHP,Clarity,False,43.29161,76.80437
+2812563,8967295,School 137,Clarity,False,43.31676,76.91084
+2812565,8967305,Kokzhiyek-63,Clarity,False,43.35813,76.9229
+2812576,8967291,EkoPost,Clarity,False,43.24966,76.8056
+2812620,8966905,Alatau,Clarity,False,43.17658,76.89771
+2812632,8966963,Elaman 105 St.,Clarity,False,43.36861,76.94705
+2812635,8967169,Atyrau 54,Clarity,False,43.29678,76.99159
+2812649,8967457,Shamiyeva St.,Clarity,False,43.28323,76.92753
+2812651,8966913,Kokkainar Micro,Clarity,False,43.29076,76.84123
+2812676,8967351,Suiynbay-55,Clarity,False,43.37664,76.99055
+2812687,8967245,KBTU,Clarity,False,43.25348,76.94537
+2812689,8967201,Iliyski trakt,Clarity,False,43.34158,76.98193
+2812690,8967337,School 187,Clarity,False,43.18579,76.82848
+2812691,8966985,169 School,Clarity,False,43.29713,76.8611
+2812716,8967401,Ritz Palace,Clarity,False,43.22833,76.96028
+2812717,8966911,Mamyr-3,Clarity,False,43.21431,76.8555
+2812718,8966973,Gymnasium 39,Clarity,False,43.34819,76.8433
+2812726,8967397,Hospital-7,Clarity,False,43.23396,76.80013
+2812749,8967179,Ryskulova 81,Clarity,False,43.27865,76.90347
+2812751,8967281,School 77,Clarity,False,43.21846,76.94964
+2812753,8967097,School 190,Clarity,False,43.15476,76.8992
+2812756,8967303,School 175,Clarity,False,43.19957,76.85428
+2812769,8967203,Nicolas International chain of wineries,Clarity,False,43.19365,76.90963
+2812775,8967419,School 192,Clarity,False,43.17203,76.85234
+2812784,8967157,Respublika 4,Clarity,False,43.2368,76.94481
+2812788,8967339,Magnum-273,Clarity,False,43.25074,76.82301
+2812792,8967389,Kotelnikova St.,Clarity,False,43.3104,76.94217
+2812809,8967139,AsiaFood,Clarity,False,43.24283,76.82872
+2812821,8967109,School 160,Clarity,False,43.33584,76.91287
+2812826,8967143,Zhetysu 47,Clarity,False,43.29171,76.9898
+2812831,8967421,"Road, Almaty Industrial Zone",Clarity,False,43.31652,76.80429
+2812833,8967319,DIS-7,Clarity,False,43.20533,76.77692
+2819013,9012318,Nurly street,Clarity,False,43.2288,76.77749
+2819078,9012794,Shkola-Gimnaziya 152,Clarity,False,43.30173,76.87217
+3124030,10935381,Ippodrom,Clarity,False,43.30778,76.92324
+3126921,10942088,School 186,Clarity,False,43.19148,76.80284
+3243331,11235891,Qapparov köşesı (akbota.info),AirGradient,False,43.210652653212826,76.94650052599252
+5473573,13891506,Roxanne,AirGradient,False,43.245455,76.955559
+6142363,14721807,Almaty,AirGradient,False,43.2269,76.8834
+6152135,14795558,Almaty,AirGradient,False,43.232633,76.878267
+6158096,14840476,№182 mektep-gimnaziya,AirGradient,False,43.281,76.824
+6161924,14869003,Almaty Arena,AirGradient,False,43.2639,76.8193
+6174362,14961781,Abai – Seifullin ,AirGradient,False,43.241181,76.933831
+6174363,14961786,GATOB,AirGradient,False,43.2497,76.9458
+6174364,14961791,Alma City,AirGradient,False,43.2213,76.7846
+6175359,14969349,"Talǵar, Gagarin atyndaǵy №8 mektep",AirGradient,False,43.2938,77.2347
+6175360,14969354,"Panfilovo, №33 mektep",AirGradient,False,43.3838,77.1163
+6175361,14969359,Altai 2,AirGradient,False,43.3503,76.9888
+6175362,14969364,AKPTiT kolledj ,AirGradient,False,43.3958,76.9865
+6175363,14969369,№170 mektep,AirGradient,False,43.3364,76.9775
+6175364,14969374,№16 äskeri qalaşıq (Süyinbai d.),AirGradient,False,43.3695,76.9869
+6175365,14969379,№11 orta mektep,AirGradient,False,43.3454,76.9588
+6175366,14969384,№31 orta mektep,AirGradient,False,43.3253,76.9676
+6175367,14969389,№44 mektep-gimnaziya,AirGradient,False,43.3439,77.0072
+6175368,14969394,№168 Balabaqşa,AirGradient,False,43.3105,76.8742
+6175369,14969399,№179 mektep,AirGradient,False,43.3382,76.8995
+6175370,14969404,"Talǵar, ortalyq aýdandyq aýrýhana ",AirGradient,False,43.3175,77.2293
+6175371,14969409,№128 Balabaqşasy (Şekspir k-si),AirGradient,False,43.3575,76.9354
+6175385,14969414,Ainabulaq (Jumabayev k-si) ,AirGradient,False,43.3238,76.9111
+6175386,14969419,Jas Qanat,AirGradient,False,43.3251,76.9866
+6175387,14969424,Jambyl – Nurmaqov,AirGradient,False,43.2452,76.9075
+6175388,14969429,Qazybek bi – Nurmaqov,AirGradient,False,43.2537,76.9064
+6175389,14969434,Sairan (Ötegen batyr k-si),AirGradient,False,43.2414,76.8608
+6175390,14969439,Qalalyq kardiologiya ortalyğı,AirGradient,False,43.2536,76.9283
+6175391,14969444,Almaty 2 t/zh vokzaly,AirGradient,False,43.2734,76.939
+6175392,14969449,№153 mektep-gimnaziya,AirGradient,False,43.2209,76.8362
+6175393,14969454,Bökeikhanov – Aerodromnyi t. k-si,AirGradient,False,43.274,76.9108
+6175394,14969459,№157 mektep,AirGradient,False,43.2197,76.8015
+6175395,14969464,№166 litsei,AirGradient,False,43.2604,76.8725
+6175396,14969469,№151 mektep,AirGradient,False,43.2811,76.8806
+6175397,14969474,Sairan (Qarasai Batyr k-si),AirGradient,False,43.2466,76.8681
+6175398,14969479,№174 mektep-gimnaziya,AirGradient,False,43.21574,76.791652
+6175399,14969484,Jetisu 2,AirGradient,False,43.2227,76.8467
+6175400,14969489,№154 mektep,AirGradient,False,43.2509,76.8338
+6175401,14969494,"Aqbulak, 7",AirGradient,False,43.2427,76.8175
+6175485,14970000,Köktem şipazhaiy,AirGradient,False,43.2018,76.9368
+6175486,14970005,Mega Park,AirGradient,False,43.2634,76.9319
+6175487,14970010,Ermensai (Juldyz – Ortalyq) ,AirGradient,False,43.168,76.9163
+6175488,14970015,"Kókqaınar auyly, №29 mektep",AirGradient,False,43.450782,76.943029
+6175489,14970020,Kerei Janibek k-si – Gornyi t.,AirGradient,False,43.2362,76.9652
+6175490,14970025,"Qyzylqaırat , №19 mektep gimnaziya",AirGradient,False,43.303307,77.185303
+6175491,14970030,№163 litsei,AirGradient,False,43.2204,76.9544
+6175492,14970035,Tastybulaq (Kazgiprozem),AirGradient,False,43.1729,76.8154
+6175493,14970040,Duman (Arys k-si) ,AirGradient,False,43.2777,77.0055
+6175494,14970045,Asqarov k-si,AirGradient,False,43.1952,76.8645
+6175495,14970050,Respublika saraiy,AirGradient,False,43.24293,76.957006
+6175496,14970055,Qazaqfilm (Baiydosov k-si),AirGradient,False,43.1933,76.9035
+6175497,14970060,№12 Qalalyq emhana,AirGradient,False,43.2355,76.9113
+6175498,14970065,"QazTSIK, №40 mektep",AirGradient,False,43.3782,76.8364
+6175499,14970070,"Tuıimebaev auyly, №19 mektep ",AirGradient,False,43.4134,76.914
+6175500,14970075,№86 mektep-gimnaziya,AirGradient,False,43.219879,76.859159
+6175501,14970080,SDU,AirGradient,False,43.208174,76.668446
+6175502,14970085,Mamyr 1,AirGradient,False,43.2114,76.8434
+6175503,14970090,Narxoz University ,AirGradient,False,43.214577,76.871985
+6175504,14970095,Ońtústik saıabaǵy | MOST hub ,AirGradient,False,43.2103,76.9083
+6175505,14970100,№116 mektep,AirGradient,False,43.2255,76.8685
+6175507,14970110,№47 mektep,AirGradient,False,43.1919,76.9681
+6175508,14970115,Almaty oblystyq №1 balalar uyi,AirGradient,False,43.201,76.9136
+6175510,14970125,№190 mektep ,AirGradient,False,43.1573,76.9017
+6175511,14970130,"Irgeli, orta mektep",AirGradient,False,43.2421,76.7622
+6175512,14970135,Ermensai (Araily k-si),AirGradient,False,43.1885,76.9304
+6175513,14970140,Alatau kenti (Jetbaev k-si),AirGradient,False,43.3615,77.1367
+6175514,14970145,№7 Su Elektr Stansiäsy,AirGradient,False,43.1658,76.8962
+6175515,14970150,Ortalyq demalys sayabağy,AirGradient,False,43.2645,76.9727
+6175516,14970155,Perzenthana (Basenov 2a),AirGradient,False,43.2221,76.8994
+6175518,14970165,"Bereke auyly, Beisebaev atyndaǵy orta mektep",AirGradient,False,43.3711,76.7114
+6175520,14970175,Raiymbek - Jangeldin,AirGradient,False,43.2714,76.9568
+6175521,14970180,Almaty şipazhaiy,AirGradient,False,43.1759,76.8726
+6175522,14970185,Rahat Konditerlik fabrikasy,AirGradient,False,43.263037,76.957877
+6175523,14970190,№200 mektep-gimnaziya,AirGradient,False,43.198,76.7905
+6175524,14970195,№206 mektep-gimnaziya,AirGradient,False,43.208327,76.819198
+6175525,14970200,"Ötegen Batyr, №24 litsei",AirGradient,False,43.4143,77.0315
+6175526,14970205,Qarağaily (Nadirov k-si),AirGradient,False,43.1833,76.8416
+6175527,14970210,"Isaevo auyly, Isaeva atyndaǵy mektep",AirGradient,False,43.4012,76.7513
+6175528,14970215,Samal 1,AirGradient,False,43.2358,76.9518
+6175529,14970220,Baitursynov k-si,AirGradient,False,43.231494,76.934146
+6175530,14970225,Zharokov - Mynbayev st.,AirGradient,False,43.2374,76.8995
+6175531,14970230,Almalybaq,AirGradient,False,43.222398,76.678183
+6175532,14970235,Zhambyl,AirGradient,False,43.2734,76.6685
+6175533,14970240,Medeu,AirGradient,False,43.1642,77.0494
+6175707,14971190,Orbita 1 (Navoi k-si) ,AirGradient,False,43.2035,76.8869
+6175708,14971195,№170 Böbekjai balabaqşasy,AirGradient,False,43.3115,76.9015
+6175709,14971200,"Belbulak, №32 mektep",AirGradient,False,43.3121,77.098
+6175710,14971205,Prezident sayabağı,AirGradient,False,43.1944,76.8876
+6175711,14971210,"Kyrgauyldy auyly, Orta mektep",AirGradient,False,43.1793,76.7701
+6175712,14971215,"Tuzdybastau, №13 mektep ",AirGradient,False,43.3239,77.0644
+6175713,14971220,"Gūldala, №21 mektep",AirGradient,False,43.3516,77.0573
+6175714,14971225,Tereńqur ,AirGradient,False,43.2179,76.9693
+6175715,14971230,Jañaturmys (Altynsarin k-si),AirGradient,False,43.174919,76.788939
+6175716,14971235,№98 mektep,AirGradient,False,43.2886,76.9765
+6175717,14971240,Nurtau golf club,AirGradient,False,43.1934,76.8186
+6175718,14971245,Saiyalı (Avtotsón) ,AirGradient,False,43.3038,76.837
+6175719,14971250,№162 mektep,AirGradient,False,43.3118,76.9557
+6175720,14971255,№112 mektep,AirGradient,False,43.2937,76.9154
+6175721,14971260,№171 mektep,AirGradient,False,43.2718,76.8449
+6175722,14971265,№184 mektep,AirGradient,False,43.2465,76.7918
+6175723,14971270,№107 mektep,AirGradient,False,43.2958,76.9374
+6175837,14972007,Duman 2 (Mercur Grad) ,AirGradient,False,43.2885,77.004
+6186958,15055385,"Almaty, Dostyk 300/60",AirGradient,False,43.2226,76.9759
+6198159,15139210,Almaty Museum of Arts ,AirGradient,False,43.2267,76.9492
+6199332,15147815,Al Farabi Universiteti,AirGradient,False,43.2267,76.9217
+6199784,15151118,Almağül (Serkebaev – Strauss),AirGradient,False,43.2049,76.8999
+6199785,15151123,5-şi şağyn audan ,AirGradient,False,43.2337,76.8642
+6199786,15151128,Aqbulaq (Baiqonyrov k-si) ,AirGradient,False,43.2636,76.8336
+6199787,15151133,Äskeri qalaşıq,AirGradient,False,43.3615,76.9653
+6199788,15151138,Aqjar (Medeubekov k-si),AirGradient,False,43.1826,76.7916
+6199789,15151143,Aport Mall East,AirGradient,False,43.3148,77.0216
+6199790,15151148,"Abaı auyly, №2 mektep",AirGradient,False,43.2015,76.7636
+6199865,15151674,№193 mektep,AirGradient,False,43.373,76.9431
+6199866,15151679,Maqataev – Muratbaev,AirGradient,False,43.2618,76.9186
+6199867,15151684,Bekmahanov – Süyinbai,AirGradient,False,43.3461,76.971271
+6199868,15151689,Ayajan (Talas k-si),AirGradient,False,43.3179,76.9374
+6199869,15151694,№4 Qalalyq emhana (Orbita 3),AirGradient,False,43.2019,76.8766
+6199870,15151699,№178 mektep,AirGradient,False,43.2499,76.8143
+6199871,15151704,№42 mektep,AirGradient,False,43.2373,76.8333
+6199872,15151709,№63 orta mektep,AirGradient,False,43.2169,76.8901
+6199873,15151714,Kensai (Şoqai k-si),AirGradient,False,43.2662,76.986
+6199874,15151719,№142 mektep,AirGradient,False,43.3611,76.9966
+6199876,15151729,№85 mektep ,AirGradient,False,43.3549,76.9524
+6199877,15151734,№61 mektep,AirGradient,False,43.3299,76.9477
+6199878,15151739,Jumysşy kenti (Krylov k-si),AirGradient,False,43.2735,76.8904
+6199879,15151744,Nuriddin (Arystanbab k-si) ,AirGradient,False,43.1868,76.8599
+6199880,15151749,Baým toǵaıy,AirGradient,False,43.2939,76.9449
+6199881,15151754,№17 mektep,AirGradient,False,43.3144,76.9657
+6199882,15151759,№156 mektep ,AirGradient,False,43.3224,76.8863
+6199883,15151764,№14 mektep ,AirGradient,False,43.2607,76.8858
+6199884,15151769,Ortalyq stadion,AirGradient,False,43.2397,76.9241
+6199886,15151779,Avtomekhanikalyq kolledj ,AirGradient,False,43.3049,76.9187
+6199887,15151784,Dostyq ş.a. (Muzammil meşiti),AirGradient,False,43.2239,76.8291
+6199888,15151789,№198 mektep,AirGradient,False,43.3183,76.9783
+6199889,15151794,№22 Qalalyq emhana,AirGradient,False,43.3046,76.853
+6199890,15151799,Bögenbai Batyr – Vereŝagin,AirGradient,False,43.2487,76.887
+6199891,15151804,Kojamqulov - Qarasai batyr,AirGradient,False,43.25005,76.9179
+6199892,15151809,"Boraldai, №212 Mektep",AirGradient,False,43.3247,76.8394
+6237373,15425997,Şuhov at. skver,AirGradient,False,43.2747,76.9808
+6237374,15426002,Sharipov St.- Raimbek St. cross,AirGradient,False,43.2456,76.8348
+6237375,15426007,Şanyraq 2 (Baldáuren k-si) ,AirGradient,False,43.2904,76.8507
+6237376,15426012,Samğau ş.a. (Kokorai k-si) ,AirGradient,False,43.2706,76.8612
+6237377,15426017,Süyinbai 487,AirGradient,False,43.358233,76.97941
+6237378,15426022,Saudakent (Kazakov k-si),AirGradient,False,43.2668,76.8949
+6237379,15426027,Sūltan-Qorǵan (Bespaqov k-si),AirGradient,False,43.3167,76.9266
+6237380,15426032,Süıınbai – Musorgskiı,AirGradient,False,43.2851,76.9481
+6237427,15426291,Vagjanov - Jansugurov k-si ,AirGradient,False,43.3054,76.9312
+6237428,15426296,Turğyt Özal – Yesenzhanov,AirGradient,False,43.2406,76.8824
+6237429,15426301,Tastybulaq (ST Qanat) ,AirGradient,False,43.1636,76.8097
+6237430,15426306,Tausamaly,AirGradient,False,43.1732,76.8317
+6237431,15426311,Zhas Qanat aud. (Khmelnitskiy k-si.),AirGradient,False,43.3177,76.9839
+6249730,15517913,Wellness Club Luxor ,AirGradient,False,43.2083,76.96651
+6253643,15547082,Nurly-Tan 37,AirGradient,False,43.213101,76.7950629
+6255304,15559481,Duisenova 25,AirGradient,False,43.25586,76.88555
+6353999,16296836,Alma City 5,AirGradient,False,43.2167,76.7743
+6367666,16356690,Malaya Stanitsa (Bestujev k-si),AirGradient,False,43.281123,76.970665
+6398066,16581554, Qurylys bazary (Taraz k-si) ,AirGradient,False,43.3052,77.0062
+6465557,17076584,Hunter shooting club,AirGradient,False,43.383170386230546,76.98219747156817
+6465558,17076589,№82 mektep,AirGradient,False,43.25083615665919,76.84691125082725
